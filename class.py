@@ -75,7 +75,7 @@ else:
 print("####################################################")   
 
 # Python program to demonstrate
-# use of class method and static method.
+# use of class instance ,class method and static method.
 from datetime import date
 class Person:
     # instance class
